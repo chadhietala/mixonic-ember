@@ -12,7 +12,6 @@
     "router.js": "https://github.com/tildeio/router.js.git#f7b4b11543222c52d91df861544592a8c1dcea8a",
     "route-recognizer": "https://github.com/tildeio/route-recognizer.git#8e1058e29de741b8e05690c69da9ec402a167c69",
     "htmlbars": "https://github.com/tildeio/htmlbars.git#87c7635744aa258c05bb88a432a69dd88ecb6f57",
-    "dag-map": "https://github.com/krisselden/dag-map.git#e307363256fe918f426e5a646cb5f5062d3245be",
-    "simple-html-tokenizer": "https://github.com/tildeio/simple-html-tokenizer.git#8e1779cc79cdaf787dacbd013c2069790816c5ac"
+    "dag-map": "https://github.com/krisselden/dag-map.git#e307363256fe918f426e5a646cb5f5062d3245be"
   }
 }
